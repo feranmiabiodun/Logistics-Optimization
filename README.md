@@ -1,3 +1,5 @@
+## Supply Chain Logistics Optimization
+
 #### Introduction
 
 Welcome to the 'Supply Chain Logistics Optimization' project, where we embarked on an exciting journey of data analysis and exploration within the realm of supply chain logistics. As a data scientist, I had the privilege of leading a talented team in this transformative project, dedicated to enhancing supply chain logistics through data-driven strategies, particularly by leveraging the power of SQL.
