@@ -1,4 +1,4 @@
-## Supply Chain Logistics Optimization
+![Image 3](image/hybrid.jpg)
 
 #### Introduction
 
