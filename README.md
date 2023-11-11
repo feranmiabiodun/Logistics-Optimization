@@ -1,4 +1,4 @@
-![Image 3](images/supply_chain.png)
+![Image 1](images/supply_chain.png)
 
 #### Introduction
 
